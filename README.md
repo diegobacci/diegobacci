@@ -1,5 +1,5 @@
 - 👋 Olá, seja bem vindo. Eu sou o @diegobacci!!!
-- 👀 Tenho interesse em ocupar posições profissionais onde eu possa agregar valor através dos dados
+- 👀 Tenho interesse em estágios onde eu possa agregar valor através dos dados ou desenvolver minha habilidade como desenvolvedor.
 - 🌱 Atualmente estou aprendendo python e data warehousing, além de implementar os métodos usados no livro "clean code".
 - 📫 Entre em contato comigo através do meu email: diegobarbosa.sb@gmail.com e linkedIn: https://www.linkedin.com/in/diegobacci/
 
